@@ -8,21 +8,21 @@ This second notebook will explore the data.
 
 ## Environnement :
 
-Deux notebook d'exploration de données.
+Two notebook.
 
 jeu de données : https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip
 
-## Contenue : 
+## Content:
 
-#### I – Nettoyage des données
+#### I – Data cleaning
 
-###### Première analyse du dataframe
-###### Idée d’application
-###### Traitement des valeurs aberrantes
-###### Traitements des valeurs manquantes
+###### First analysis of the dataframe
+###### Application idea
+###### Treatment of outliers
+###### Treatment of missing values
 
-#### II –Analyse exploratoire
+#### II – Exploratory analysis
 
-###### Analyse uni-variée 
-###### Analyse  bi-variée
-###### Analyse multi-variée
+###### Univariate analysis
+###### Bivariate analysis
+###### Multivariate analysis
