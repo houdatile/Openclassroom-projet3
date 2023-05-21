@@ -10,8 +10,7 @@ This second notebook will explore the data.
 
 Deux notebook d'exploration de données.
 
-jeu de données : 
-[https://datacatalog.worldbank.org/dataset/education-statistics.](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip)
+jeu de données : https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip
 
 ## Contenue : 
 
